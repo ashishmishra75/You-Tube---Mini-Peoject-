@@ -1,4 +1,4 @@
-console.log("namaste project");
+console.log("hello js");
 
 
 
